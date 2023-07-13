@@ -1,0 +1,23 @@
+*{padding: 0; margin: 0 auto;}
+body {background: #0e0e0e;}
+.tex-name{color: white; margin-top: 12px; margin-bottom: 20px; text-align: center;}
+.log-img {margin-top: 5px; width: 200px; height: 200px;}
+
+
+
+/* menu */
+
+.item-menu {border-bottom: 10px solid #0e0e0e;}
+
+.item-menu li{background-color: #bf1d2b; padding: 15px; text-decoration: none; list-style-type: none; display: inline-block; text-align: center;}
+
+.item-menu li:hover, .item-menu li:active {background-color: #f39325; color:#282523;}
+
+.item-menu li a {color: white;font-size: 16px; text-decoration: none;}
+
+li a:hover, li a:action {color: #0e0e0e;font-size: 20px;}
+
+.rec-amarillo {background-color: #f39325; display: inline-block; border-right: 15px solid #0e0e0e; width: 100%;}
+
+
+  

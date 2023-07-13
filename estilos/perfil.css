@@ -1,0 +1,18 @@
+*
+{ padding: 0; }
+
+body {background-color: #0e0e0e;}
+
+.logo {position: absolute;}
+
+.cerrar {width: 100%;}
+
+.cerrar p {color: white;}
+
+.cerrar p span {color: #f39325;}
+
+.menu-deportista {background-color: #bf1d2c; width: 100%;}
+
+.barra-amarilla {background-color: #f39325; width: 100%; height: 10px;}
+
+.dato-deportista {background-color: #f39325; height: 450px;}

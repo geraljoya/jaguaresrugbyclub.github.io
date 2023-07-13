@@ -1,0 +1,163 @@
+*
+{
+    padding: 0;
+    margin: 0 auto;
+}
+
+body
+{   
+    background-image: url(../img/fondo_01.png);
+    background-color: #282523;}
+    margin: 0;
+    padding: 0;
+}
+
+
+.anton {font-family: 'Anton', sans-serif; font-weight: 500; letter-spacing: 0.05em;}
+
+.cairo {font-family: 'Cairo', sans-serif;}
+
+
+.rojo { color: #bf1d2c;}
+
+.amarillo { color: #f7931f;}
+
+.dorado { color: #c97719;}
+
+.gris { color: #282523;}
+
+.gris-claro { color: #cfcfcf;}
+
+.blanco { color: white;}
+
+
+.bg-rojo { background-color: #bf1d2c;}
+
+.bg-amarillo { background-color: #f7931f;}
+
+.bg-dorado { background-color: #c97719;}
+
+.bg-gris { background-color: #282523;}
+
+.bg-gris-claro { background-color: #cfcfcf;}
+
+.bg-blanco { background-color: white;}
+
+
+a {text-decoration: none; color: white;}
+
+a:hover, a:active {text-decoration: none;}
+
+
+
+
+h3
+{
+    background-image: url(../img/barra_texto_contenido.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+
+
+
+h5
+{
+    background-image: url(../img/categoria_linea1.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    font-size: 26px;
+}
+
+/* Home */
+
+.ingresos
+{
+    background-image: url(../img/barra_01_negro.jpg);
+    background-repeat: repeat-x;
+    background-position: left;
+    background-size: cover;
+}
+
+.cabecera
+{
+    background-image: url(../img/img-header.jpg);
+    background-size: cover;
+    width: 100%;
+}
+
+.nav
+{
+    background-image: url(../img/barra_02_menu.png);
+    background-repeat: repeat-x;
+    background-position: left;
+    background-size: cover;
+}
+
+a.nav-link:hover, a.nav-link:active
+{
+    background-image: url(../img/hover-menu.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+
+.perfil-jugadores
+{
+    
+    background: url(../img/fondo_01.png);
+    background-repeat: no-repeat;
+    border-top: 25px solid #f7931f;
+    border-bottom: 50px solid #f7931f;
+}
+
+
+
+.ligas-rugby
+{
+    background: url(../img/fondo_02.png);
+    background-repeat: no-repeat;
+    border-top: 25px solid #bf1d2c;
+    border-bottom: 50px solid #bf1d2c;
+}
+
+footer
+{
+    background-image: url(../img/footer1.png);
+    background-size: cover;
+    height: 100%;
+    border-top: 20px solid #f7931f;
+}
+
+a.link-footer:hover, a.link-footer:active
+{
+    text-decoration: none;
+    border-bottom: 2px solid #f7931f;
+}
+
+
+p.direccion
+{
+    background-image: url(../img/brocha.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+
+
+/* Guía de juego*/
+
+.rugby1
+{
+    border-top: 5px solid #f7931f;
+    border-bottom: 15px solid #f7931f;
+}
+
+.rugby2
+{
+    border-top: 5px solid #bf1d2c;
+    border-bottom: 15px solid #bf1d2c;
+}
+
+/* Contacto */
+

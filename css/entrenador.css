@@ -1,0 +1,204 @@
+*
+{
+    padding: 0;
+    margin: 0 auto;
+}
+
+html,body
+{
+    height:100%;
+    background-image: url(../img/fondo_01.png);
+    
+    
+}
+
+
+.anton {font-family: 'Anton', sans-serif; font-weight: 500; letter-spacing: 0.05em;}
+
+.cairo {font-family: 'Cairo', sans-serif;}
+
+.rojo { color: #bf1d2c;}
+
+.amarillo { color: #f7931f;}
+
+.dorado { color: #c97719;}
+
+.gris { color: #282523;}
+
+.gris-claro { color: #cfcfcf;}
+
+.blanco { color: white;}
+
+.bg-rojo { background-color: #bf1d2c;}
+
+.bg-amarillo { background-color: #f7931f;}
+
+.bg-dorado { background-color: #c97719;}
+
+.bg-gris { background-color: #282523;}
+
+.bg-gris-claro { background-color: #cfcfcf;}
+
+.bg-blanco { background-color: white;}
+
+a { text-decoration: none;}
+
+
+
+.logo
+{
+    position: absolute;
+    left: 5%;
+}
+
+main
+{
+    border-top: 25px solid #f7931f;
+    
+    
+}
+
+.barra-amarilla
+{
+    height: 100vh;
+    background-image: url(../img/rombo.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+
+.comentario
+{
+    width: 90%;
+}
+
+table tr, table td
+{
+    border: 2px solid #f7931f;
+}
+
+form input
+{
+    display: block;
+}
+
+.equipos img
+{
+    border-radius: 30%;
+}
+table
+{
+ width: 100%;   
+}
+
+
+
+@media screen and (max-width: 2560px) {
+   .mx { 
+       font-size: 30px;
+       position: relative;
+       left: 35px;
+       top:10px;
+      
+  }
+    
+    .mx1 img{
+        width: 40px;
+        position: relative;
+        right: 15px;
+        bottom: 3px;
+        top: 6px;
+    
+    }
+    
+}
+
+
+
+@media screen and (max-width: 1440px) {
+   .mx { 
+       font-size: 30px;
+       position: relative;
+       left: 35px;
+       top:10px;
+      
+  }
+    
+    .mx1 img{
+        width: 40px;
+        position: relative;
+        right: 15px;
+        bottom: 3px;
+        top: 6px;
+    
+    }
+    
+}
+
+
+
+@media screen and (max-width: 1024px) {
+   .mx { 
+       font-size: 20px;
+       position: relative;
+       left: 35px;
+       top:10px;
+      
+  }
+    
+    .mx1 img{
+        width: 25px;
+        position: relative;
+        right: 15px;
+        bottom: 3px;
+        top: 6px;
+    
+    }
+    
+}
+
+
+
+
+@media screen and (max-width: 768px) {
+   .mx { 
+       font-size: 20px;
+       position: relative;
+       left: 35px;
+       top:10px;
+      
+  }
+    
+    .mx1 img{
+        width: 25px;
+        position: relative;
+        right: 15px;
+        bottom: 3px;
+        top: 6px;
+    
+    }
+    
+}
+
+
+
+
+
+@media screen and (max-width: 540px) {
+   .mx { 
+       font-size: 20px;
+       position: relative;
+       left: 30px;
+       top:10px;
+      
+  }
+    
+    .mx1 img{
+        width: 25px;
+        position: relative;
+        right: 15px;
+        bottom: 3px;
+        top: 6px;
+    
+    }
+    
+}
